@@ -1,0 +1,42 @@
+[title=cutscene1_start]
+Hey there. <size=0.2> (press Space to continue)
+You can start moving me with the wasd keys.
+Try and explore around, but whatever you do, DO NOT TOUCH THAT BUTTON...
+[title=cutscene1_end]
+
+[title=2_start]
+OH NO!! WHAT DID YOU DO???? 
+Now we have to go through a very simple puzzle to fix this mess.
+(I wonder what would happen if I jump into the hole)
+[title=2_end]
+
+[title=3_start]
+Whoaaaa, I'm outside the game world....
+This is so trippy....
+OH WAIT, it says something on the back of the window...
+<size=0.2> press R to rotate window....?
+Why don't you try that?
+[title=3_end]
+
+[title=4_start]
+Ohhh try pressing the button as well, let's see what happens
+[title=4_end]
+
+
+[title=5_start]
+Coloured glass? Hmmm....
+Maybe it can show something hidden around the desktop, try dragging it and searching around.
+[title=5_end]
+
+
+[title=6_start]
+A button!!! I think that should fix everything
+Let's press it!
+[title=6_end]
+
+
+[title=7_start]
+Well.... I guess this is alright... not really completely fixed...
+This is probably a cliffhanger for a sequel where it actually gets fixed completely.
+So... I think this is the end of the game, so you can press V to close (why V...).
+[title=7_end]
